@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a **Full Stack Developer** with over 8 years o
 
 ### 📫 How to Reach Me:
 - LinkedIn: [My LinkedIn](https://www.linkedin.com/in/atreyi-das-008578110/)
-- Email: [Mail me to](atreyi.das1993@gmail.com)
+- Email: [Mail me](atreyi.das1993@gmail.com)
 
 
 ### 😄 Fun Facts:
