@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a **Full Stack Developer** with over 8 years o
 - 🔭 I’m currently working with .NET Core, Angular 16
 - 🌱 I’m learning React
 
-- ### 🛠️ My Tech Stack:
+### 🛠️ My Tech Stack:
 - **Frontend**: Angular, React, JavaScript, TypeScript, HTML, CSS
 - **Backend**: .NET, ASP.NET Core, .NET 6, Web API
 - **DevOps**: Azure, GitHub Actions
