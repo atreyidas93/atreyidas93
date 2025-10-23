@@ -23,5 +23,6 @@ Welcome to my GitHub profile! I'm a **Full Stack Developer** with over 9 years o
 ### 😄 Fun Facts:
 - I’m a bookworm 📚
 - I do travel a lot 🚓
-- I'm a mountain trekker 🚶‍♀️
+- I trek to mountains(sp. The Himalayas) 🚶‍♀️
+- I cook well 🍳
 - Coding is my passion, not profession 👩‍💻
