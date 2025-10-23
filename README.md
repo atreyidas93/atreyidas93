@@ -1,8 +1,8 @@
 # Hi, I'm Atreyi Das! 👋
 
-Welcome to my GitHub profile! I'm a **Full Stack Developer** with over 8 years of experience in **.NET**, **Angular**, **JavaScript**, **CSS**, and **HTML**. Passionate about building clean, efficient, and scalable software.
+Welcome to my GitHub profile! I'm a **Full Stack Developer** with over 9 years of experience in **.NET**, **Angular**, **JavaScript**, **CSS**, and **HTML**. Passionate about building clean, efficient, and scalable software.
 
-- 🔭 I’m currently working with .NET Core, Angular 16
+- 🔭 I’m currently working with .NET Core, Angular 16, Web Components
 - 🌱 I’m learning React
 
 ### 🛠️ My Tech Stack:
@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a **Full Stack Developer** with over 8 years o
 
 ### 📫 How to Reach Me:
 - LinkedIn: [My LinkedIn](https://www.linkedin.com/in/atreyi-das-008578110/)
-- Email: [Mail me](atreyi.das1993@gmail.com)
+- Email: [Mail me](mailto:atreyi.das1993@gmail.com)
 
 
 ### 😄 Fun Facts:
