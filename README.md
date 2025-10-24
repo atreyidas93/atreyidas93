@@ -5,6 +5,7 @@ Welcome to my GitHub profile! I'm a **Full Stack Developer** with over 9 years o
 - 🔭 I’m currently working with .NET Core, Angular 16, Web Components
 - 🌱 I’m learning React
 
+
 ### 🛠️ My Tech Stack:
 - **Frontend**: Angular, React, JavaScript, TypeScript, HTML, CSS
 - **Backend**: .NET, ASP.NET Core, .NET 6, Web API
@@ -12,12 +13,15 @@ Welcome to my GitHub profile! I'm a **Full Stack Developer** with over 9 years o
 - **Databases**: SQL Server, SQLite, PostgreSql
 - **Tools**: Visual Studio, VS Code, Git, Postman, Swagger, NetBeans, RabbitMQ
 
+
 ### 🌟 Featured Projects:
 - [Web component library to be used across all JS Frameworks](https://github.com/atreyidas93/nomad-ui-lib)
 - [Personal Portfolio](https://github.com/atreyidas93/pixel-and-logic)
 
+
 ### 🎯 Live Projects
 👉 Visit my **[Personal Portfolio](https://atreyidas93.github.io/pixel-and-logic/)** hosted on GitHub Pages to explore my work in action! 
+
 
 ### 📫 How to Reach Me:
 - LinkedIn: [My LinkedIn](https://www.linkedin.com/in/atreyi-das-008578110/)
