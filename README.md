@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a **Full Stack Developer** with over 9 years o
 - [Personal Portfolio](https://github.com/atreyidas93/pixel-and-logic)
 
 ### 🎯 Live Projects
-👉 Visit my **[Personal Portfolio]([#](https://atreyidas93.github.io/pixel-and-logic/))** hosted on GitHub Pages to explore my work in action! 
+👉 Visit my **[Personal Portfolio]([https://atreyidas93.github.io/pixel-and-logic/])** hosted on GitHub Pages to explore my work in action! 
 
 ### 📫 How to Reach Me:
 - LinkedIn: [My LinkedIn](https://www.linkedin.com/in/atreyi-das-008578110/)
