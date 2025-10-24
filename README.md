@@ -13,7 +13,8 @@ Welcome to my GitHub profile! I'm a **Full Stack Developer** with over 9 years o
 - **Tools**: Visual Studio, VS Code, Git, Postman, Swagger, NetBeans, RabbitMQ
 
 ### 🌟 Featured Projects:
-- [Web component library to be used across all JS Frameworks](https://github.com/atreyidas93/nomad-ui-lib) 
+- [Web component library to be used across all JS Frameworks](https://github.com/atreyidas93/nomad-ui-lib)
+- [Personal Portfolio]([https://github.com/atreyidas93/pixel-and-logic])
 
 ### 📫 How to Reach Me:
 - LinkedIn: [My LinkedIn](https://www.linkedin.com/in/atreyi-das-008578110/)
